@@ -10,6 +10,7 @@ while True:
     ''')
     break
 
-first_question = "Enter the ip address: "
+first_question = input("Enter the ip address: ")
 
+if first_question == ""
 
