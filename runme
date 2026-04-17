@@ -1,4 +1,0 @@
-#/usr/bin/bash
-echo loading
-python3 script/full.py
-sleep 2
